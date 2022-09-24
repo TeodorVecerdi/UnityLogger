@@ -153,3 +153,53 @@ sysinfo.txt
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/rider,unity
+
+# Odin Inspector
+Assets/External/Plugins/Sirenix/**
+
+!Assets/External/Plugins/Sirenix/Assemblies
+!Assets/External/Plugins/Sirenix/Assemblies/link.xml
+!Assets/External/Plugins/Sirenix/Assemblies/link.xml.meta
+
+!Assets/External/Plugins/Sirenix/Assemblies/NoEditor
+!Assets/External/Plugins/Sirenix/Assemblies/NoEditor.meta
+!Assets/External/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll
+!Assets/External/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll
+!Assets/External/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta
+
+!Assets/External/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor
+!Assets/External/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta
+!Assets/External/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll
+!Assets/External/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll
+!Assets/External/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta
+
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll.meta
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml
+!Assets/External/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml.meta
+
+# Fullscreen Editor
+Assets/External/Plugins/Fullscreen Editor/
+Assets/External/Plugins/Fullscreen Editor.meta
+
+# Console Pro
+Assets/External/Plugins/ConsolePro/
+Assets/External/Plugins/ConsolePro.meta
